@@ -10,14 +10,23 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@expo/ngrok": "^4.1.0",
+    "@react-navigation/bottom-tabs": "^6.2.0",
+    "@react-navigation/native": "^6.0.8",
+    "@react-navigation/native-stack": "^6.5.2",
     "expo": "~44.0.0",
+    "expo-asset": "~8.4.6",
+    "expo-file-system": "~13.1.4",
     "expo-notifications": "~0.14.0",
     "expo-secure-store": "~11.1.0",
     "expo-sqlite": "~10.1.0",
     "expo-status-bar": "~1.2.0",
+    "metro-config": "^0.64.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
+    "react-native-safe-area-context": "3.3.2",
+    "react-native-screens": "~3.10.1",
     "react-native-web": "0.17.1"
   },
   "devDependencies": {
